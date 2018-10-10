@@ -1,5 +1,5 @@
 # RSA_encryption_algorithm_Pyhton
-RSA加密算法
+RSA加密算法，目前支持比较大的素数
 
 ### USE
 ```RSA(m).encryption()```  # m为明文
