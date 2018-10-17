@@ -9,7 +9,7 @@ author @ WUD
 Using way -> RSA(m).encryption()
 
 Contact
-wud@wangjunx.top, wud.wjx@gmail.com, 1411349759@qq.com
+wud@wangjunx.top, wjx.wud@gmail.com, 1411349759@qq.com
 
 wud's blog
 http://blog.wangjunx.top, https://github.com/WUD-51
