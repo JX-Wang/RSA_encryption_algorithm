@@ -1,11 +1,12 @@
 # RSA_encryption_algorithm_Python
 RSA加密算法，目前支持比较大的素数
 
+
 *Give me a Star or Follow me if You like this Repo*
 
 ### 使用
 ```RSA(m).encryption()```  # m为明文
-
+*Tips: 可能会存在一些 bug 导致程序报错，产生不了正确结果，多运行几次就 OK*  
 ### 结果
 ```RSA by Wangjunxiong: 2018.10.4
 P is : 303201544048013519935752092665946924405380603951707400779567541893642770464930150910685790993799269092713901018933957068020358905276691 
