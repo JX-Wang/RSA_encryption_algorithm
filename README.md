@@ -1,6 +1,6 @@
 # RSA_encryption_algorithm_Python
-RSA加密算法，目前支持比较大的素数
-
+RSA加密算法，目前支持比较大的素数  
+![](https://img.shields.io/badge/license-WTFPL-blue.svg) ![](https://img.shields.io/github/repo-size/JX-Wang/RSA_encryption_algorithm.svg) ![](https://img.shields.io/bitbucket/issues-raw/JX-Wang/RSA_encryption_algorithm.svg) ![](https://img.shields.io/github/forks/JX-Wang/RSA_encryption_algorithm.svg?label=Fork) ![](https://img.shields.io/github/stars/JX-Wang/RSA_encryption_algorithm.svg?style=social)  
 
 *Give me a Star or Follow me if You like this Repo*
 
@@ -27,4 +27,4 @@ AFTER RSA DECRYPT:0x123048024098240192abcdefbdbeacbabfeab4bf94b174e208742e4f27f4
 ### CONTACT
 wud@wangjunx.top,wud.wjx@gmail.com
 
-[wjx的博客](http://www.wangjunx.top)
+[wjx's Blog](http://www.wangjunx.top)
