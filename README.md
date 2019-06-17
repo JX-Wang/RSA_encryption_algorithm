@@ -23,7 +23,5 @@ AFTER RSA DECRYPT:0x123048024098240192abcdefbdbeacbabfeab4bf94b174e208742e4f27f4
 ==============================================================
 ```
 
-### CONTACT
-wud@wangjunx.top,wud.wjx@gmail.com
 
-[wjx's Blog](http://www.wangjunx.top)
+[My Blog](http://www.wangjunx.top)
