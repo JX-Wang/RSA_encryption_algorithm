@@ -32,7 +32,7 @@ AFTER RSA DECRYPT:0x123048024098240192abcdefbdbeacbabfeab4bf94b174e208742e4f27f4
 RSA encryption algorithm
 ========================
 date @ 2018.10.03
-author @ WUD
+author @ Junxiong Wang
 
 Using way -> RSA(m).encryption()
 
