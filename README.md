@@ -29,18 +29,12 @@ AFTER RSA DECRYPT:0x123048024098240192abcdefbdbeacbabfeab4bf94b174e208742e4f27f4
 #! /usr/bin/env python
 # coding:utf-8
 """
-RSA encryption algorithm
-========================
-date @ 2018.10.03
-author @ Junxiong Wang
+- RSA encryption algorithm
+- data @ 2018.10.03
+- author @ Junxiong Wang
+- RSA(m).encryption()
 
-Using way -> RSA(m).encryption()
-
-Contact
-wud@wangjunx.top, wjx.wud@gmail.com, 1411349759@qq.com
-
-wud's blog
-http://blog.wangjunx.top, https://github.com/JX-Wang
+- Contact: wjx.wud@gmail.com
 """
 import random  # 随机数产生
 import math  # 对数运算
