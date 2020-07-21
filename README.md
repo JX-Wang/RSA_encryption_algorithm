@@ -30,7 +30,7 @@ AFTER RSA DECRYPT:0x123048024098240192abcdefbdbeacbabfeab4bf94b174e208742e4f27f4
 # coding:utf-8
 """
 - RSA encryption algorithm
-- data @ 2018.10.03
+- date @ 2018.10.03
 - author @ Junxiong Wang
 - RSA(m).encryption()
 
