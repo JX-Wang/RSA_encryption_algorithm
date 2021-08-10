@@ -12,7 +12,7 @@ Contact
 wud@wangjunx.top, wjx.wud@gmail.com, 1411349759@qq.com
 
 wud's blog
-http://blog.wangjunx.top, https://github.com/JX-Wang
+https://github.com/JX-Wang
 """
 import random  # 随机数产生
 import math  # 对数运算
